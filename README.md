@@ -8,4 +8,4 @@ sujeción para realizar el corte en el punto de unión y depositar cada mano
 cortada en una zona de recolección
 
 
-#  Desarrolladores: Anthony,Pedro, Picon
+#  Desarrolladores: David
