@@ -5,6 +5,8 @@ Banana Automatic Cutter Robot
 
 ![Static Badge](https://img.shields.io/badge/misión-Automatizar%20el%20corte%20de%20manos%20de%20banano-purple)
 
+![ROS](https://img.shields.io/badge/ROS2-Jazzy-22314E?&logo=ros&logoColor=white)
+
 ![GitHub contributors](https://img.shields.io/github/contributors/dvalenciar/DOBOT_Magician_ROS)
 ![GitHub last commit](https://img.shields.io/github/last-commit/dvalenciar/DOBOT_Magician_ROS)
 ![Top Language](https://img.shields.io/github/languages/top/dvalenciar/DOBOT_Magician_ROS)
