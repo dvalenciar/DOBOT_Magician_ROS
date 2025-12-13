@@ -22,5 +22,3 @@ jobs:
         python-version: '3.10'
         cache: 'pip'
 
-      run: echo "✅ Format check completed. No issues found, well done!"
-
